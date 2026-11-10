@@ -9,4 +9,20 @@ public class Student {
     public String toString(){
         return "Student name: " + name +" Gpa: " + gpa;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public double getGpa() {
+        return gpa;
+    }
+
+    public void setGpa(double gpa) {
+        this.gpa = gpa;
+    }
 }
