@@ -1,0 +1,5 @@
+Student name: DaveGpa: 3.4
+Student name: MackGpa: 2.9
+Student name: JustinGpa: 3.0
+Student name: jamesGpa: 4.0
+Student name: juiceGpa: 2.9
